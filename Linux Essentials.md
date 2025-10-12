@@ -1,5 +1,5 @@
 # Linux Essentials
-
+![Linux_logo](/Workspace/Linux/linux-logo.png)
 
 
 * ## History & Intoduction
@@ -29,7 +29,7 @@ CLI: Command Line Interface
 1. Microsoft Hiper-V
 2. Oracle VirtualBox
 3. Vmware
-4. Parallels Desctop
+4. Parallels Desktop
 5. etc...
 
 
@@ -40,17 +40,17 @@ CLI: Command Line Interface
 
 ### First command
 ```
-whoami                  username
-hostname                host name
-uname -a                kernel info
-lsb_release -a          os info
-free -h                 ram info
-lscpu                   cpu info
-lsblk                   harddisc info
-ip a "or" ip -br a      network & ip info
-top "or" htop           task manager
-date                    time
-echo salam              write 'salam'
+whoami------------------username
+hostname----------------host name
+uname -a----------------kernel info
+lsb_release -a----------os info
+free -h-----------------ram info
+lscpu-------------------cpu info
+lsblk-------------------harddisc info
+ip a "or" ip -br a------network & ip info
+top "or" htop-----------task manager
+date--------------------time
+echo salam--------------write 'salam'
 ```
 
 
