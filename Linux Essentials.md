@@ -38,7 +38,7 @@ CLI: Command Line Interface
 2. Hosted (Type2)
 
 
-### First command
+### First Command
 ```
 whoami------------------username
 hostname----------------host name
@@ -53,13 +53,22 @@ date--------------------time
 echo salam--------------write 'salam'
 ```
 
+### Directory Command
+| Command | Order                        | Types                               | Description                               |
+|---------|------------------------------|-------------------------------------|-------------------------------------------|
+| pwd     | {print working directory}    |                                     | در کجا هستم؟                             |
+| ls      | {list}                       | ls -l / ll / ls -a / ls -la / ls -R | l=line / a=all / R=tree                   |
+| cd      | {change directory}           | cd lin1 / cd ..                     | cd ..=backspace                           | 
+| mkdir   | {make directory}             | mkdir lin1 lin2 / mkdir -p          | -p lin1/lin2/lin3=دایرکتوری‌های تو در تو |
+| rmdir   | {remove directory}           | rmdir lin2                          |                                           |
+| rm -rf  | {remove directory & content} | rm -rf lin3                         | -r=recursive / -f=force                   |
 
 
 
 
-
-
-
+| touch   | {make file}                  | touch file1.txt                     |                                           |
+| rm      | {remove file}                | rm file1.txt                        |                                           |
+|||||
 
 
 
